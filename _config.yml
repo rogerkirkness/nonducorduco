@@ -1,4 +1,4 @@
-url: "https://rogerkirkness.com"
+url: "https://nonducorduco.org"
 permalink: /:title
 plugins:
   - jekyll-sitemap
