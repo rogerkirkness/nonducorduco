@@ -1,3 +1,3 @@
 # website
 
-This repository contains the code and content for [rogerkirkness.com](https://rogerkirkness.com/).
+This repository contains the code and content for [nonducorduco.org](https://nonducorduco.org/).
